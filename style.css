@@ -1,0 +1,14 @@
+@font-face {
+	font-family: "Lulo";
+	src: url("Lulo Clean Outline.otf");
+}
+
+@font-face {
+	font-family: "Aleo";
+	src: url("Aleo-Regular.otf");
+}
+
+body {
+	font-family: "Lulo";
+	text-align: center;
+}
